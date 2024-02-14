@@ -1,1 +1,1 @@
-# entrega1
+Ejercicio con bucles iterativos.
